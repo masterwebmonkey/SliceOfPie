@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\japodaca\\source\\repos\\SliceOfPie\\SliceOfPie\\SliceOfPie\\SliceOfPie.msbuildproj": {}
+  },
+  "projects": {
+    "C:\\Users\\japodaca\\source\\repos\\SliceOfPie\\SliceOfPie\\SliceOfPie\\SliceOfPie.msbuildproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\japodaca\\source\\repos\\SliceOfPie\\SliceOfPie\\SliceOfPie\\SliceOfPie.msbuildproj",
+        "projectName": "SliceOfPie",
+        "projectPath": "C:\\Users\\japodaca\\source\\repos\\SliceOfPie\\SliceOfPie\\SliceOfPie\\SliceOfPie.msbuildproj",
+        "packagesPath": "C:\\Users\\japodaca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\japodaca\\source\\repos\\SliceOfPie\\SliceOfPie\\SliceOfPie\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\japodaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Peachpie.App": {
+              "target": "Package",
+              "version": "[0.9.38, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

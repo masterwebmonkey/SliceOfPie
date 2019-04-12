@@ -1,0 +1,2 @@
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\obj\Release\netstandard2.0\SliceOfPie.msbuildprojAssemblyReference.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\obj\Release\netstandard2.0\SliceOfPie.msbuildproj.CoreCompileInputs.cache

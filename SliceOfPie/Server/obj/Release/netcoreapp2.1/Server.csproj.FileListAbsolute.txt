@@ -1,0 +1,6 @@
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Release\netcoreapp2.1\Server.csprojAssemblyReference.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Release\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Release\netcoreapp2.1\Server.RazorAssemblyInfo.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Release\netcoreapp2.1\Server.RazorAssemblyInfo.cs
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Release\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Release\netcoreapp2.1\Server.AssemblyInfo.cs

@@ -1,0 +1,17 @@
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\bin\Debug\netcoreapp2.1\Server.dll
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\bin\Debug\netcoreapp2.1\Server.pdb
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\bin\Debug\netcoreapp2.1\SliceOfPie.dll
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\bin\Debug\netcoreapp2.1\SliceOfPie.pdb
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.RazorAssemblyInfo.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.RazorAssemblyInfo.cs
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.RazorTargetAssemblyInfo.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.csproj.CopyComplete
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.dll
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\Server\obj\Debug\netcoreapp2.1\Server.pdb

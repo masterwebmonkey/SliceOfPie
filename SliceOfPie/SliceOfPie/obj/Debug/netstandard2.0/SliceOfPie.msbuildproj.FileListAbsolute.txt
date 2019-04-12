@@ -1,0 +1,7 @@
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\bin\Debug\netstandard2.0\SliceOfPie.deps.json
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\bin\Debug\netstandard2.0\SliceOfPie.dll
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\bin\Debug\netstandard2.0\SliceOfPie.pdb
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\obj\Debug\netstandard2.0\SliceOfPie.msbuildprojAssemblyReference.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\obj\Debug\netstandard2.0\SliceOfPie.msbuildproj.CoreCompileInputs.cache
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\obj\Debug\netstandard2.0\SliceOfPie.dll
+C:\Users\japodaca\source\repos\SliceOfPie\SliceOfPie\SliceOfPie\obj\Debug\netstandard2.0\SliceOfPie.pdb
